@@ -50,3 +50,7 @@ main{
     border: none;
     cursor: pointer;
 }
+
+.memem--image{
+    max-width: 100%
+}
